@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header"/>
+</p>
+
+---
+
 <h1 align="center">Hi there, I'm <span style="color:#4fa3d1;">Halid Uğur</span> 👋</h1>
 <h3 align="center"> Computer Engineering Student | Passionate about Full-Stack Development & Embedded Systems</h3>
 

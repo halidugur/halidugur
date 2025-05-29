@@ -1,11 +1,8 @@
 <h1 align="center">✨ Hi there, I'm <span style="color:#4fa3d1;">Halid Uğur</span> 👋</h1>
 <h3 align="center">💻 Computer Engineering Student | 💡 Passionate about Full-Stack Development & Embedded Systems</h3>
 
-<p align="center">
-  ![izmir_03_tam35-blogspot-com](https://github.com/user-attachments/assets/a845758d-a0e6-42ef-8e58-f84cac91089c)
-</p>
 
-![izmir_03_tam35-blogspot-com](https://github.com/user-attachments/assets/a845758d-a0e6-42ef-8e58-f84cac91089c)
+  ![izmir_03_tam35-blogspot-com](https://github.com/user-attachments/assets/a845758d-a0e6-42ef-8e58-f84cac91089c)
 
 
 ---

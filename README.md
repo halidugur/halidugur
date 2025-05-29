@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hi there, I'm <span style="color:#4fa3d1;">Halid Uğur</span> 👋</h1>
-<h3 align="center">💻 Computer Engineering Student | 💡 Passionate about Full-Stack Development & Embedded Systems</h3>
+<h1 align="center">Hi there, I'm <span style="color:#4fa3d1;">Halid Uğur</span> 👋</h1>
+<h3 align="center"> Computer Engineering Student | Passionate about Full-Stack Development & Embedded Systems</h3>
 
 
 <p align="center">
@@ -10,22 +10,22 @@
 
 ---
 
-### 🚀 Projects I'm Working On
+### Projects I'm Working On
 
-- 🎮 Developing a **2D Unity Game** with interactive features  
-- 🖥️ Building a **Job Application Tracking System** using **ASP.NET Core MVC + PostgreSQL**  
-- 🧠 Designing an **Elderly Care Assistant System** with **Arduino** and smart sensors
-
----
-
-### 🧠 Currently Learning
-
-- 💬 **C#**, **SQL**, **Unity Game Design**, **Arduino Programming**  
-- 🌐 Enhancing skills in **full-stack web development**, **API design**, and **database modeling**
+- Developing a **2D Unity Game** with interactive features  
+- Building a **Job Application Tracking System** using **ASP.NET Core MVC + PostgreSQL**  
+- Designing an **Elderly Care Assistant System** with **Arduino** and smart sensors
 
 ---
 
-### 📈 GitHub Stats
+### Currently Learning
+
+- **C#**, **SQL**, **Unity Game Design**, **Arduino Programming**  
+- Enhancing skills in **full-stack web development**, **API design**, and **database modeling**
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halidugur&layout=compact&theme=radical" width="47%" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🔥 Contribution Activity
+### Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=halidugur&theme=react-dark" />
@@ -42,7 +42,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
@@ -56,7 +56,7 @@
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="mailto:halidugur0390@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

@@ -5,6 +5,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
+![izmir_03_tam35-blogspot-com](https://github.com/user-attachments/assets/a845758d-a0e6-42ef-8e58-f84cac91089c)
+
+
 ---
 
 ### 🚀 Projects I'm Working On

@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#4fa3d1;">Halid Uğur</span> 👋</h1>
-<h3 align="center">Computer Engineering Student | Passionate about Full-Stack Development & Embedded Systems</h3>
+<h3 align="center">Computer Engineering Student </h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a845758d-a0e6-42ef-8e58-f84cac91089c" alt="izmir_03_tam35-blogspot-com" width="400"/>
@@ -11,26 +11,10 @@
 
 ---
 
-### 🚀 Projects I'm Working On
-
-- 🎮 Developing a **2D Unity Game** with interactive features  
-- 🖥️ Building a **Job Application Tracking System** using **ASP.NET Core MVC + PostgreSQL**  
-- 🔧 Designing an **Elderly Care Assistant System** with **Arduino** and smart sensors
-
----
-
 ### 🌱 Currently Learning
 
 - 💬 **C#**, **SQL**, **Unity Game Design**, **Arduino Programming**  
 - 🌐 Enhancing skills in **full-stack web development**, **API design**, and **database modeling**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halidugur&layout=compact&theme=radical" width="47%" />
-</p>
 
 ---
 

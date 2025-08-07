@@ -11,14 +11,6 @@
 
 ---
 
-### 🌱 Currently Learning
-
-- C#, Java, Python  
-- SQL, Unity Game Design, Arduino Programming  
-- Full-stack Web Development & API Design  
-
----
-
 ### 🧰 Languages & Tools
 
 <p align="center">
